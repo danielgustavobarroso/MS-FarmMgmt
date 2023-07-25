@@ -1,0 +1,9 @@
+[
+  {
+    "farmId": "1",
+    "name": "Los Cuñados",
+    "money": 10000,
+    "chickenLimit": 4,
+    "eggLimit": 7
+  }
+]
